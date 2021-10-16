@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		792B650126C8FEEC003A310A /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792B650026C8FEEC003A310A /* String.swift */; };
 		79CD603A271AF40900BF9B5F /* VisualEffectBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CD6039271AF40900BF9B5F /* VisualEffectBlur.swift */; };
+		79CD603C271AFEA900BF9B5F /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79CD603B271AFEA900BF9B5F /* ActivityIndicator.swift */; };
 		79D2642526C866F000A34894 /* WhatsAppMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D2642426C866F000A34894 /* WhatsAppMeApp.swift */; };
 		79D2642726C866F000A34894 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D2642626C866F000A34894 /* ContentView.swift */; };
 		79D2642926C866F100A34894 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79D2642826C866F100A34894 /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 		792B64FF26C8FD98003A310A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		792B650026C8FEEC003A310A /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		79CD6039271AF40900BF9B5F /* VisualEffectBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectBlur.swift; sourceTree = "<group>"; };
+		79CD603B271AFEA900BF9B5F /* ActivityIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityIndicator.swift; sourceTree = "<group>"; };
 		79D2642126C866F000A34894 /* WhatsAppMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhatsAppMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79D2642426C866F000A34894 /* WhatsAppMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsAppMeApp.swift; sourceTree = "<group>"; };
 		79D2642626C866F000A34894 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				79D2642D26C866F100A34894 /* Persistence.swift */,
 				79EDEDB926C870BA0054B2B9 /* Country.swift */,
 				79CD6039271AF40900BF9B5F /* VisualEffectBlur.swift */,
+				79CD603B271AFEA900BF9B5F /* ActivityIndicator.swift */,
 				79EDEDB526C870390054B2B9 /* CountryData.json */,
 				792B64FF26C8FD98003A310A /* Info.plist */,
 				79D2642826C866F100A34894 /* Assets.xcassets */,
@@ -297,6 +300,7 @@
 				79D2643126C866F100A34894 /* WhatsAppMe.xcdatamodeld in Sources */,
 				792B650126C8FEEC003A310A /* String.swift in Sources */,
 				79D2642726C866F000A34894 /* ContentView.swift in Sources */,
+				79CD603C271AFEA900BF9B5F /* ActivityIndicator.swift in Sources */,
 				79CD603A271AF40900BF9B5F /* VisualEffectBlur.swift in Sources */,
 				79EDEDBC26C871350054B2B9 /* AddPhoneNumber.swift in Sources */,
 				79EDEDB826C870810054B2B9 /* Bundle.swift in Sources */,
