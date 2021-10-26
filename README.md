@@ -1,2 +1,2 @@
-# send-whatsapp
-Send whatsapp message to anyone without the need to save contact
+# send-to-whatsapp
+iOS App to send WhatsApp message to anyone without saving the contact
